@@ -1,0 +1,4 @@
+name: Four_micra
+version: '1.0-SNAPSHOT'
+main: plugin.four_micra.Main
+api-version: '1.20'

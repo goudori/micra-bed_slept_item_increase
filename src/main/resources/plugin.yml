@@ -1,0 +1,4 @@
+name: Four_micra
+version: '${version}'
+main: plugin.four_micra.Main
+api-version: '1.20'
